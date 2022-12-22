@@ -1,1 +1,0 @@
-# Metode-Trapezoid-dan-Riemann
